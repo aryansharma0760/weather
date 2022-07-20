@@ -1,2 +1,2 @@
-# weather
- Application used to determine the weather conditions of an area. Created using kotlin for android
+# Weather_App
+It is an android app made by using kotlin and android studio for api I use open weather api.
